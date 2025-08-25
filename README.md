@@ -1,4 +1,4 @@
-# **Mini Projeto 1 **: Dashboard de Performance para Plataforma de IA de Atendimento
+# Mini Projeto 1 : Dashboard de Performance para Plataforma de IA de Atendimento
 
 [Link do relatório]
 ---
