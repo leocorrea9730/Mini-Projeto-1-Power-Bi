@@ -10,7 +10,7 @@ O dashboard centraliza as métricas mais importantes da operação, oferecendo u
 
 
 ###  Preview do Dashboard
-##📊 KPIs e Métricas Apresentadas
+📊 KPIs e Métricas Apresentadas
 O painel foi projetado para destacar os indicadores-chave de performance (KPIs) mais relevantes para a análise do atendimento automatizado:
 
 Total de Interações: Número total de conversas iniciadas pelos usuários com a plataforma de IA.
