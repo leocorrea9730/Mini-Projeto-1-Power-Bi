@@ -1,6 +1,6 @@
 # Mini Projeto 1 : Dashboard de Performance para Plataforma de IA de Atendimento
 
-[Link do relatório]
+[Link do relatório](https://github.com/leocorrea9730/Mini-Projeto-1-Power-Bi/blob/main/Mini%20Projeto%201.pbix)
 ---
 
 ## Descrição
